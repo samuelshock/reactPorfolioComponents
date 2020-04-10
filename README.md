@@ -1,2 +1,0 @@
-# reactPorfolioComponents
-Created with CodeSandbox
